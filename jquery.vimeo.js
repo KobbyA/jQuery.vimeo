@@ -1,5 +1,5 @@
 /**
- * Author : Kobby Osafo-Appiah
+ * Author : Kobby Appiah
  * Analog Interactive, Inc.
  * Date: 5/30/13
  *
